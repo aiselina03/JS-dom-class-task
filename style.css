@@ -1,0 +1,89 @@
+/* task */
+/* .btn1 {
+  background-color: pink;
+  color: white;
+  border-color: pink;
+  border: 3px solid pink;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 25px;
+  cursor: pointer;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn1:hover {
+  background-color: lightcoral;
+  border-color: lightcoral;
+}
+
+.div ul {
+  color: white;
+  background-color: black;
+  width: 250px;
+  height: 100vh;
+  transition: all 3s;
+
+}
+.div {
+  position: absolute;
+    bottom: 20px;
+    transition: 1s;
+}
+
+.div ul li {
+  font-size: 25px;
+  line-height: 100px;
+  padding: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul li:hover {
+  color: hotpink;
+  transition: all 500ms;
+}
+.none {
+  transform: translateX(-250px);
+}
+.div ul .fa-regular {
+  color: white;
+  font-size: 25px;
+  position: absolute;
+  left: 180px;
+  top: 20px;
+} */
+
+.photos {
+  position: absolute;
+  top: 20vh;
+  left: 50px;
+}
+.photos img {
+  width: 400px;
+  height: 300px;
+  margin: 20px;
+
+}
+
+.photos .blur{
+    width: 400px;
+    height: 300px;
+    margin: 20px;
+    filter: blur(6px);
+}
+.btns {
+  width: 100%;
+  position: absolute;
+  left: 40px;
+}
+.btns button {
+  background-color: white;
+  color: hotpink;
+  border-color: hotpink;
+  border: 3px solid pink;
+  padding: 20px 50px;
+  border-radius: 9px;
+  font-size: 22px;
+  cursor: pointer;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 18%;
+  margin: 50px;
+  cursor: pointer;
+}
